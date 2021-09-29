@@ -1,0 +1,35 @@
+/* setting font */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* --- */
+
+/* all h1 tag will have the same characteristic */
+h1{
+    font-weight: 600;
+    font-size: 48px;
+}
+/* --- */
+
+/* grayscale */
+.gray-scale-1{
+    filter: hue-rotate(200deg);
+}
+.gray-scale-2{
+    filter: hue-rotate(300deg);
+}
+/* --- */
+
+/* font-awesome-stars */
+.fa-star.filled{
+    color: #E77C40;
+}
+
+.fa-star.empty{
+    color: #E77C40;
+}
+/* ---  */
+
+#subscribe{
+    margin-top: 120px;
+}
